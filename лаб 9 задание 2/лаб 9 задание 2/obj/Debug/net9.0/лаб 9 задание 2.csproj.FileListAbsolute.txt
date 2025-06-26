@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\bin\Debug\net9.0\лаб 9 задание 2.exe
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\bin\Debug\net9.0\лаб 9 задание 2.deps.json
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\bin\Debug\net9.0\лаб 9 задание 2.runtimeconfig.json
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\bin\Debug\net9.0\лаб 9 задание 2.dll
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\bin\Debug\net9.0\лаб 9 задание 2.pdb
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\лаб 9 задание 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\лаб 9 задание 2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\лаб 9 задание 2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\лаб 9 задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\лаб 9 задание 2.dll
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\refint\лаб 9 задание 2.dll
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\лаб 9 задание 2.pdb
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\лаб 9 задание 2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\проекакго\лаб 9 задание 2\лаб 9 задание 2\obj\Debug\net9.0\ref\лаб 9 задание 2.dll
