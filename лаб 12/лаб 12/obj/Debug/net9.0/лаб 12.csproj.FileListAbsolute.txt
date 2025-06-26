@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.exe
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.deps.json
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.runtimeconfig.json
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.dll
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.pdb
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.AssemblyInfo.cs
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.dll
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\refint\лаб 12.dll
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.pdb
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.genruntimeconfig.cache
+C:\Users\Admin\Desktop\проекакго\лаб 12\лаб 12\obj\Debug\net9.0\ref\лаб 12.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.exe
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.deps.json
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.runtimeconfig.json
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\bin\Debug\net9.0\лаб 12.pdb
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.AssemblyInfo.cs
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\refint\лаб 12.dll
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.pdb
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\лаб 12.genruntimeconfig.cache
+C:\Users\Admin\Desktop\проекты ИСП234\лаб 12\лаб 12\obj\Debug\net9.0\ref\лаб 12.dll
